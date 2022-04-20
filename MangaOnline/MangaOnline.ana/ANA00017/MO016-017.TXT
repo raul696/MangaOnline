@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Clients		TAR	308	new record size: 308
+Clients	cognom	RUB+		cognom is a new item

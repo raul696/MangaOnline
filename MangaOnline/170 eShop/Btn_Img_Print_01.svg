@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="28 0 24 24" enable-background="new 28 0 24 24" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill="#FAFAFA" points="35.731,10.365 35.376,5.553 44.676,5.553 44.252,10.365 		"/>
+		<path fill="#B3B3B3" d="M44.512,5.702l-0.396,4.512H35.87l-0.331-4.512H44.512 M44.842,5.4h-9.628l0.377,5.114h8.8L44.842,5.4
+			L44.842,5.4z"/>
+	</g>
+	<g>
+		<polygon fill="#FAFAFA" points="35.115,18.449 36.167,14.877 43.854,14.877 44.938,18.449 		"/>
+		<path fill="#B3B3B3" d="M43.741,15.027l0.995,3.271h-9.421l0.964-3.271H43.741 M43.964,14.727h-7.909L34.914,18.6h10.229
+			L43.964,14.727L43.964,14.727z"/>
+	</g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="431.9385" y1="-270.6797" x2="431.9385" y2="-264.9209" gradientTransform="matrix(1 0 0 -1 -391.96 -254.5996)">
+			<stop  offset="0" style="stop-color:#393939"/>
+			<stop  offset="0.8284" style="stop-color:#7A7C80"/>
+			<stop  offset="0.8343" style="stop-color:#393939"/>
+			<stop  offset="0.8662" style="stop-color:#474748"/>
+			<stop  offset="0.9535" style="stop-color:#67696C"/>
+			<stop  offset="1" style="stop-color:#74767A"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_1_)" points="44.541,16.08 44.541,14.914 35.44,14.914 35.44,16.08 32.809,16.08 32.107,15.314 
+			32.15,11.417 33.328,10.321 46.686,10.365 47.85,11.481 47.85,15.441 47.152,16.08 		"/>
+		<path fill="#232323" d="M46.566,10.516l1.133,1.034v3.767l-0.612,0.613h-2.397v-0.865v-0.301h-0.299h-8.8H35.29v0.301v0.865
+			h-2.358L32.3,15.297v-3.753l1.045-1.028H46.566 M46.686,10.214H33.221L32,11.417v4.005l0.809,0.809h2.782v-1.166h8.8v1.166h2.818
+			L48,15.441v-4.024L46.686,10.214L46.686,10.214z"/>
+	</g>
+	<rect x="45.938" y="13.285" opacity="0.25" fill="#A2FF00" enable-background="new    " width="0.746" height="0.746"/>
+	<rect x="46.146" y="13.438" fill="#A2FF00" width="0.388" height="0.388"/>
+</g>
+</svg>
