@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+empleats	cognom	RUB+		cognom is a new item
+empleats	cognom	RUB-		item cognom deleted

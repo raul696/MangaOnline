@@ -1,0 +1,18 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+MangaGenere	id_mangas	CLEN*		item id_mangas is now a key
+MangaGenere	id_generes	CLEN*		item id_generes is now a key
+MangaGenere	id_MangaGenere	RUB+		id_MangaGenere is a new key
+MangaGenere	id_MangaGenere	RUB-		item id_MangaGenere deleted
+MangaIdioma	id_idiomes	CLEN*		item id_idiomes is now a key
+MangaIdioma	id_mangas	CLEN*		item id_mangas is now a key
+MangaIdioma	id_idiomes_id_mangas	RUB+		id_idiomes_id_mangas is a new key
+Mangas	id_proveidors	CLEN*		item id_proveidors is now a key
+Transaccions	id_usuaris	CLEN*		item id_usuaris is now a key
+Transaccions	id_mangas	CLEN*		item id_mangas is now a key
+Constraint_Generes_Mangas		NWL	Generes (id) and MangaGenere (id_generes)	New link between Generes (id) and MangaGenere (id_generes)
+Constraint_Mangas_Generes		NWL	Mangas (id) and MangaGenere (id_mangas)	New link between Mangas (id) and MangaGenere (id_mangas)
+Constraint_Proveidors_Mangas		NWL	Proveidors (id) and Mangas (id_proveidors)	New link between Proveidors (id) and Mangas (id_proveidors)
+Constraint_Idiomes_Mangas		NWL	Idiomes (id) and MangaIdioma (id_idiomes)	New link between Idiomes (id) and MangaIdioma (id_idiomes)
+Constraint_Mangas_Idiomes		NWL	Mangas (id) and MangaIdioma (id_mangas)	New link between Mangas (id) and MangaIdioma (id_mangas)
+Constraint_Clients_Transaccions		NWL	Clients (id) and Transaccions (id_usuaris)	New link between Clients (id) and Transaccions (id_usuaris)
+Constraint_Mangas_Transaccions		NWL	Mangas (id) and Transaccions (id_mangas)	New link between Mangas (id) and Transaccions (id_mangas)

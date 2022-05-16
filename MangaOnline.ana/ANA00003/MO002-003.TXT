@@ -1,0 +1,10 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+generes		FIC-	generes	generes file deleted
+idiomes		FIC-	idiomes	idiomes file deleted
+mangaGenere		FIC-	mangaGenere	mangaGenere file deleted
+mangaIdioma		FIC-	mangaIdioma	mangaIdioma file deleted
+mangas		FIC-	mangas	mangas file deleted
+proveidors		FIC-	proveidors	proveidors file deleted
+transaccions		FIC-	transaccions	transaccions file deleted
+usuaris		FIC-	usuaris	usuaris file deleted
+HFSQL Classic connection		CNX+		

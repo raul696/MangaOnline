@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Constraint_Generes_Mangas		MCL	0,1->1,1	
+Constraint_Idiomes_Mangas		MCL	0,1->1,1	

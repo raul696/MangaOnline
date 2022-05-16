@@ -1,0 +1,5 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Constraint_Mangas_Generes		MCL	1,n->0,n	
+Constraint_Mangas_Generes		MCL	0,1->1,1	
+Constraint_Mangas_Idiomes		MCL	1,n->0,n	
+Constraint_Mangas_Idiomes		MCL	0,1->1,1	
