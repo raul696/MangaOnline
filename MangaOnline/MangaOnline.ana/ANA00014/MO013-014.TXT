@@ -1,3 +1,0 @@
-//MO013-014.TXT ANA00013 TO ANA00014
-MangaIdioma	id_MangaIdioma	NNR	id_idiomes_id_mangas	CAUTION: key id_idiomes_id_mangas renamed as id_MangaIdioma
-MangaIdioma	id_MangaIdioma	RUB-		item id_MangaIdioma deleted
