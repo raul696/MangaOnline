@@ -1,3 +1,0 @@
-//MO012-013.TXT ANA00012 TO ANA00013
-Mangas	preu_producte	NNR	preu	CAUTION: item preu renamed as preu_producte
-Transaccions	preu_producte	NNR	preu	CAUTION: item preu renamed as preu_producte

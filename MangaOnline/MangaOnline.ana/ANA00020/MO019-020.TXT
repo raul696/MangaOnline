@@ -1,4 +1,0 @@
-//MO019-020.TXT ANA00019 TO ANA00020
-Clients		TAR	298	new record size: 298
-Clients	cognom	RUB+		cognom is a new item
-Clients	cognom	RUB-		item cognom deleted

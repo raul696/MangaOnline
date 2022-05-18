@@ -1,4 +1,0 @@
-//MO009-010.TXT ANA00009 TO ANA00010
-empleats		NFI		new file
-Empleats		FIC-	Empleats	Empleats file deleted
-empleats		FRN		

@@ -1,5 +1,0 @@
-//MO015-016.TXT ANA00015 TO ANA00016
-Proveidors		TAR	380	new record size: 380
-Proveidors	nom_contacte	RUB+		nom_contacte is a new item
-Proveidors	adreca	RUB+		adreca is a new item
-Proveidors	web	RUB+		web is a new item

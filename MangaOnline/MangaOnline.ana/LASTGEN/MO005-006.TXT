@@ -1,3 +1,0 @@
-//MO005-006.TXT ANA00005 TO ANA00006
-MangaGenere	id_MangaGenere	NNR	pk_0	CAUTION: key pk_0 renamed as id_MangaGenere
-MangaIdioma	id_MangaIdioma	NNR	pk_0	CAUTION: key pk_0 renamed as id_MangaIdioma

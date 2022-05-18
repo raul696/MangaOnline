@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<ANALYSE GenNum="3" VersionStructure="2" RepertoireDefaut=""><CONNEXION Nom="MangaOnline" Type="11"><SOURCE>localhost</SOURCE><USER>Admin</USER><MDP/><DB>MangaOnline</DB><INFOS_ETENDUES>;Encryption = none;Initial Catalog=MangaOnline;Compression=none</INFOS_ETENDUES></CONNEXION></ANALYSE>
